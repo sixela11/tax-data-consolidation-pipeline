@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+# Excel lock files
+~$*.xlsx
+# Local runs (keep the committed examples/ and sample_data/)
+/output/
+*.log
+!examples/output/run.log
+# Never commit real data
+real_data/
+# Secrets / local config
+.env
+.env.*
+*.pem
+*.key

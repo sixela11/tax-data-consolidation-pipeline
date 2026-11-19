@@ -1,0 +1,14 @@
+02:18:30 INFO    Districts: NORTH, SOUTH
+02:18:30 INFO    District NORTH
+02:18:31 INFO      Indexed Micro: 160 TINs (14 duplicates) | Sub-50M: 120 TINs (13 duplicates)
+02:18:31 INFO      [1/3] Consolidated 400 taxpayers: Yearly kept 249 | Micro 81 | Sub-50M 70 | total 104,769,367.36 -> 116,596,169.35 (0.18s)
+02:18:31 INFO      [2/3] 232 of 400 taxpayers make up 90.06% of 116,596,169.35 (target 90%) (0.39s)
+02:18:31 INFO      [3/3] 27 of them have 7+ branches, total 41,005,110.18 (0.10s)
+02:18:31 INFO      Outputs: examples/output/01_combined/NORTH_COMBINED_BY_TIN.xlsx | examples/output/02_top_contributors/NORTH_90_PERCENT_COLLECTION.xlsx | examples/output/03_branch_filter/NORTH_7_OR_MORE_BRANCHES.xlsx
+02:18:31 INFO    District SOUTH
+02:18:31 INFO      Indexed Micro: 160 TINs (10 duplicates) | Sub-50M: 120 TINs (13 duplicates)
+02:18:31 INFO      [1/3] Consolidated 400 taxpayers: Yearly kept 267 | Micro 72 | Sub-50M 61 | total 88,891,012.36 -> 100,393,300.91 (0.22s)
+02:18:32 INFO      [2/3] 245 of 400 taxpayers make up 90.03% of 100,393,300.91 (target 90%) (0.39s)
+02:18:32 INFO      [3/3] 32 of them have 7+ branches, total 11,560,282.06 (0.11s)
+02:18:32 INFO      Outputs: examples/output/01_combined/SOUTH_COMBINED_BY_TIN.xlsx | examples/output/02_top_contributors/SOUTH_90_PERCENT_COLLECTION.xlsx | examples/output/03_branch_filter/SOUTH_7_OR_MORE_BRANCHES.xlsx
+02:18:32 INFO    Finished: 2 succeeded, 0 failed in 1.40s.
