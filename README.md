@@ -10,6 +10,17 @@ A three-stage Python pipeline that:
 > version uses `openpyxl`, so it runs on any OS without Excel installed. All data is
 > synthetic, and no organisation-specific paths, codes or records are included.
 
+## Demo video
+
+▶ **[Watch the demo (about 2 minutes, Google Drive)](https://drive.google.com/file/d/1LJjWh5YUM_TpuZs6vwcTZS_Xl_fzVg1L/view?usp=sharing)**
+
+The video follows one fictional taxpayer through all three stages: TIN consolidation, the
+90% cumulative collection cut-off, and the 7-or-more-branches filter. It ends with the
+generated reports and the test results. Every dataset shown is fictional, and the
+automation is started by hand with a single command; it does not run on a schedule.
+Spreadsheet and terminal views are labelled reconstructions that use values from the
+actual files and captured output. The narration is AI-generated.
+
 ## Business problem
 
 Collections for each district come from three separate datasets:
